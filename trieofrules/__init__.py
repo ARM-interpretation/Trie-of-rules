@@ -60,9 +60,9 @@ class trieofrules:
 
     def add_metrics(self,node_id):
         if node_id == 0:
-            self.trie.nodes[node_id]['support'] = 1
-            self.trie.nodes[node_id]['confidence'] = 1
-            self.trie.nodes[node_id]['lift'] = 1
+            self.trie.nodes[node_id]['support'] = 1.0
+            self.trie.nodes[node_id]['confidence'] = 1.0
+            self.trie.nodes[node_id]['lift'] = 1.0
         else:
             rule = self.get_path(node_id)
             support = arm.get_support(rule, self.data)
@@ -91,3 +91,15 @@ class trieofrules:
     def draw(self):
         labels = nx.get_node_attributes(self.trie, 'value')
         nx.draw_kamada_kawai(self.trie, with_labels=True, font_weight='bold', labels = labels)
+
+    def save_graph(self, filename, fileformat='graphml'):
+        fileformat = fileformat.lower()
+        save_function = {
+                    'gexf':nx.write_gexf,
+                    'gml':nx.write_gml,
+                    'graphml': nx.nx.write_graphml_lxml
+        }
+        try:
+            save_function[fileformat](self.trie, filename)
+        except KeyError:
+            print("Wrong file format. Use:", ', '.join(save_function.keys()))
