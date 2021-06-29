@@ -103,3 +103,10 @@ class trieofrules:
             save_function[fileformat](self.trie, filename)
         except KeyError:
             print("Wrong file format. Use:", ', '.join(save_function.keys()))
+
+
+    # def save(self):
+    #     for i in range(self.trie.number_of_nodes()):
+    #         self.trie.nodes[i]['viz'] = {'size':self.trie.nodes[i]['confidence']*2.5+15}
+    #
+    #     nx.write_gexf(self.trie,'test.gexf')
