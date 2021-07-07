@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2021-07-07">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="value" type="string" />
+      <attribute id="1" title="support" type="double" />
+      <attribute id="2" title="confidence" type="double" />
+      <attribute id="3" title="lift" type="double" />
+    </attributes>
+    <nodes>
+      <node id="0" label="0">
+        <attvalues>
+          <attvalue for="0" value="NULL" />
+          <attvalue for="1" value="1.0" />
+          <attvalue for="2" value="1.0" />
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="1" label="1">
+        <attvalues>
+          <attvalue for="0" value="Truffles" />
+          <attvalue for="1" value="0.02" />
+          <attvalue for="2" value="0.02" />
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="2" label="2">
+        <attvalues>
+          <attvalue for="0" value="Scandinavian" />
+          <attvalue for="1" value="0.029" />
+          <attvalue for="2" value="0.029" />
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="3" label="3">
+        <attvalues>
+          <attvalue for="0" value="Coffee" />
+          <attvalue for="1" value="0.475" />
+          <attvalue for="2" value="0.475" />
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="4" label="4">
+        <attvalues>
+          <attvalue for="0" value="Toast" />
+          <attvalue for="1" value="0.024" />
+          <attvalue for="2" value="0.049" />
+          <attvalue for="3" value="1.483" />
+        </attvalues>
+      </node>
+      <node id="5" label="5">
+        <attvalues>
+          <attvalue for="0" value="Soup" />
+          <attvalue for="1" value="0.034" />
+          <attvalue for="2" value="0.034" />
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="6" label="6">
+        <attvalues>
+          <attvalue for="0" value="Scone" />
+          <attvalue for="1" value="0.034" />
+          <attvalue for="2" value="0.034" />
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="7" label="7">
+        <attvalues>
+          <attvalue for="0" value="Alfajores" />
+          <attvalue for="1" value="0.036" />
+          <attvalue for="2" value="0.036" />
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="8" label="8">
+        <attvalues>
+          <attvalue for="0" value="Muffin" />
+          <attvalue for="1" value="0.038" />
+          <attvalue for="2" value="0.038" />
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="9" label="9">
+        <attvalues>
+          <attvalue for="0" value="Juice" />
+          <attvalue for="1" value="0.02" />
+          <attvalue for="2" value="0.043" />
+          <attvalue for="3" value="1.125" />
+        </attvalues>
+      </node>
+      <node id="10" label="10">
+        <attvalues>
+          <attvalue for="0" value="Farm House" />
+          <attvalue for="1" value="0.039" />
+          <attvalue for="2" value="0.039" />
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="11" label="11">
+        <attvalues>
+          <attvalue for="0" value="Brownie" />
+          <attvalue for="1" value="0.04" />
+          <attvalue for="2" value="0.04" />
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="12" label="12">
+        <attvalues>
+          <attvalue for="0" value="Cookies" />
+          <attvalue for="1" value="0.028" />
+          <attvalue for="2" value="0.059" />
+          <attvalue for="3" value="1.091" />
+        </attvalues>
+      </node>
+      <node id="13" label="13">
+        <attvalues>
+          <attvalue for="0" value="Hot chocolate" />
+          <attvalue for="1" value="0.029" />
+          <attvalue for="2" value="0.062" />
+          <attvalue for="3" value="1.068" />
+        </attvalues>
+      </node>
+      <node id="14" label="14">
+        <attvalues>
+          <attvalue for="0" value="Medialuna" />
+          <attvalue for="1" value="0.035" />
+          <attvalue for="2" value="0.074" />
+          <attvalue for="3" value="1.198" />
+        </attvalues>
+      </node>
+      <node id="15" label="15">
+        <attvalues>
+          <attvalue for="0" value="Sandwich" />
+          <attvalue for="1" value="0.038" />
+          <attvalue for="2" value="0.08" />
+          <attvalue for="3" value="1.121" />
+        </attvalues>
+      </node>
+      <node id="16" label="16">
+        <attvalues>
+          <attvalue for="0" value="Bread" />
+          <attvalue for="1" value="0.325" />
+          <attvalue for="2" value="0.325" />
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="17" label="17">
+        <attvalues>
+          <attvalue for="0" value="Pastry" />
+          <attvalue for="1" value="0.029" />
+          <attvalue for="2" value="0.089" />
+          <attvalue for="3" value="1.042" />
+        </attvalues>
+      </node>
+      <node id="18" label="18">
+        <attvalues>
+          <attvalue for="0" value="Pastry" />
+          <attvalue for="1" value="0.047" />
+          <attvalue for="2" value="0.099" />
+          <attvalue for="3" value="1.162" />
+        </attvalues>
+      </node>
+      <node id="19" label="19">
+        <attvalues>
+          <attvalue for="0" value="Cake" />
+          <attvalue for="1" value="0.023" />
+          <attvalue for="2" value="0.071" />
+          <attvalue for="3" value="0.692" />
+        </attvalues>
+      </node>
+      <node id="20" label="20">
+        <attvalues>
+          <attvalue for="0" value="Tea" />
+          <attvalue for="1" value="0.142" />
+          <attvalue for="2" value="0.142" />
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="21" label="21">
+        <attvalues>
+          <attvalue for="0" value="Cake" />
+          <attvalue for="1" value="0.024" />
+          <attvalue for="2" value="0.166" />
+          <attvalue for="3" value="1.612" />
+        </attvalues>
+      </node>
+      <node id="22" label="22">
+        <attvalues>
+          <attvalue for="0" value="Cake" />
+          <attvalue for="1" value="0.054" />
+          <attvalue for="2" value="0.114" />
+          <attvalue for="3" value="1.109" />
+        </attvalues>
+      </node>
+      <node id="23" label="23">
+        <attvalues>
+          <attvalue for="0" value="Tea" />
+          <attvalue for="1" value="0.028" />
+          <attvalue for="2" value="0.086" />
+          <attvalue for="3" value="0.606" />
+        </attvalues>
+      </node>
+      <node id="24" label="24">
+        <attvalues>
+          <attvalue for="0" value="Tea" />
+          <attvalue for="1" value="0.05" />
+          <attvalue for="2" value="0.104" />
+          <attvalue for="3" value="0.736" />
+        </attvalues>
+      </node>
+      <node id="25" label="25">
+        <attvalues>
+          <attvalue for="0" value="Bread" />
+          <attvalue for="1" value="0.089" />
+          <attvalue for="2" value="0.188" />
+          <attvalue for="3" value="0.579" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" />
+      <edge id="1" source="0" target="2" />
+      <edge id="2" source="0" target="3" />
+      <edge id="3" source="0" target="5" />
+      <edge id="4" source="0" target="6" />
+      <edge id="5" source="0" target="7" />
+      <edge id="6" source="0" target="8" />
+      <edge id="7" source="0" target="10" />
+      <edge id="8" source="0" target="11" />
+      <edge id="9" source="0" target="16" />
+      <edge id="10" source="0" target="20" />
+      <edge id="11" source="3" target="4" />
+      <edge id="12" source="3" target="9" />
+      <edge id="13" source="3" target="12" />
+      <edge id="14" source="3" target="13" />
+      <edge id="15" source="3" target="14" />
+      <edge id="16" source="3" target="15" />
+      <edge id="17" source="3" target="18" />
+      <edge id="18" source="3" target="22" />
+      <edge id="19" source="3" target="24" />
+      <edge id="20" source="3" target="25" />
+      <edge id="21" source="16" target="17" />
+      <edge id="22" source="16" target="19" />
+      <edge id="23" source="16" target="23" />
+      <edge id="24" source="20" target="21" />
+    </edges>
+  </graph>
+</gexf>

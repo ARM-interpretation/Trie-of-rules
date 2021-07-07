@@ -105,8 +105,24 @@ class trieofrules:
             print("Wrong file format. Use:", ', '.join(save_function.keys()))
 
 
-    # def save(self):
-    #     for i in range(self.trie.number_of_nodes()):
-    #         self.trie.nodes[i]['viz'] = {'size':self.trie.nodes[i]['confidence']*2.5+15}
-    #
-    #     nx.write_gexf(self.trie,'test.gexf')
+    def save(self):
+        lift_max = self.trie.nodes[0]['lift']
+        lift_min = self.trie.nodes[0]['lift']
+        for i in range(self.trie.number_of_nodes()):
+            lift_max=max(self.trie.nodes[i]['lift'],lift_max)
+            lift_min=min(self.trie.nodes[i]['lift'],lift_min)
+        gap = lift_max - lift_min
+        for i in range(self.trie.number_of_nodes()):
+            viz = {}
+            viz['size'] =  self.trie.nodes[i]['confidence']*20+15
+            lift = self.trie.nodes[i]['lift']
+            green = round((lift/lift_max)**(1/2)*127)
+            if lift>1:
+                viz['color'] = {'a':0, 'r':190-green , 'g':255-green , 'b': 190-green}
+            else:
+                viz['color'] = {'a':(1-lift), 'r': 100+green, 'g':127+green , 'b': 100+green}
+
+
+            self.trie.nodes[i]['viz'] = viz#{'size':round((self.trie.nodes[i]['confidence'])*20+15)}
+
+        nx.write_gexf(self.trie,'test.gexf')
