@@ -3,13 +3,13 @@ from mlxtend.frequent_patterns import fpmax,apriori,fpgrowth
 from mlxtend.frequent_patterns import association_rules
 import pandas as pd
 
-def mine_frequent_sequences(transactions, min_support,alg):
+def mine_frequent_sequences(transactions, min_support,alg,min_len):
     arm_alg = {'FP-max':fpmax, 'Apriori':apriori, 'FP-rowth':fpgrowth}
     te = TransactionEncoder()
     te_ary = te.fit(transactions).transform(transactions)
     df = pd.DataFrame(te_ary, columns=te.columns_)
     frequent_sequences = arm_alg[alg](df, min_support, use_colnames=True).itemsets.tolist()
-    return [set(x) for x in frequent_sequences]
+    return [set(x) for x in frequent_sequences if len(set(x))>=min_len]
 
 def find_frequent_items(transactions, min_support):
     """

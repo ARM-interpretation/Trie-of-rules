@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="node" attr.name="lift" attr.type="double"/>
+<key id="d2" for="node" attr.name="confidence" attr.type="double"/>
+<key id="d1" for="node" attr.name="support" attr.type="double"/>
+<key id="d0" for="node" attr.name="value" attr.type="string"/>
+<graph edgedefault="directed"><node id="0">
+  <data key="d0">NULL</data>
+  <data key="d1">1.0</data>
+  <data key="d2">1.0</data>
+  <data key="d3">1.0</data>
+</node>
+<node id="1">
+  <data key="d0">Truffles</data>
+  <data key="d1">0.02</data>
+  <data key="d2">0.02</data>
+  <data key="d3">1.0</data>
+</node>
+<node id="2">
+  <data key="d0">Scandinavian</data>
+  <data key="d1">0.029</data>
+  <data key="d2">0.029</data>
+  <data key="d3">1.0</data>
+</node>
+<node id="3">
+  <data key="d0">Coffee</data>
+  <data key="d1">0.475</data>
+  <data key="d2">0.475</data>
+  <data key="d3">1.0</data>
+</node>
+<node id="4">
+  <data key="d0">Toast</data>
+  <data key="d1">0.024</data>
+  <data key="d2">0.049</data>
+  <data key="d3">1.483</data>
+</node>
+<node id="5">
+  <data key="d0">Soup</data>
+  <data key="d1">0.034</data>
+  <data key="d2">0.034</data>
+  <data key="d3">1.0</data>
+</node>
+<node id="6">
+  <data key="d0">Scone</data>
+  <data key="d1">0.034</data>
+  <data key="d2">0.034</data>
+  <data key="d3">1.0</data>
+</node>
+<node id="7">
+  <data key="d0">Alfajores</data>
+  <data key="d1">0.036</data>
+  <data key="d2">0.036</data>
+  <data key="d3">1.0</data>
+</node>
+<node id="8">
+  <data key="d0">Muffin</data>
+  <data key="d1">0.038</data>
+  <data key="d2">0.038</data>
+  <data key="d3">1.0</data>
+</node>
+<node id="9">
+  <data key="d0">Juice</data>
+  <data key="d1">0.02</data>
+  <data key="d2">0.043</data>
+  <data key="d3">1.125</data>
+</node>
+<node id="10">
+  <data key="d0">Farm House</data>
+  <data key="d1">0.039</data>
+  <data key="d2">0.039</data>
+  <data key="d3">1.0</data>
+</node>
+<node id="11">
+  <data key="d0">Brownie</data>
+  <data key="d1">0.04</data>
+  <data key="d2">0.04</data>
+  <data key="d3">1.0</data>
+</node>
+<node id="12">
+  <data key="d0">Cookies</data>
+  <data key="d1">0.028</data>
+  <data key="d2">0.059</data>
+  <data key="d3">1.091</data>
+</node>
+<node id="13">
+  <data key="d0">Hot chocolate</data>
+  <data key="d1">0.029</data>
+  <data key="d2">0.062</data>
+  <data key="d3">1.068</data>
+</node>
+<node id="14">
+  <data key="d0">Medialuna</data>
+  <data key="d1">0.035</data>
+  <data key="d2">0.074</data>
+  <data key="d3">1.198</data>
+</node>
+<node id="15">
+  <data key="d0">Sandwich</data>
+  <data key="d1">0.038</data>
+  <data key="d2">0.08</data>
+  <data key="d3">1.121</data>
+</node>
+<node id="16">
+  <data key="d0">Bread</data>
+  <data key="d1">0.325</data>
+  <data key="d2">0.325</data>
+  <data key="d3">1.0</data>
+</node>
+<node id="17">
+  <data key="d0">Pastry</data>
+  <data key="d1">0.029</data>
+  <data key="d2">0.089</data>
+  <data key="d3">1.042</data>
+</node>
+<node id="18">
+  <data key="d0">Pastry</data>
+  <data key="d1">0.047</data>
+  <data key="d2">0.099</data>
+  <data key="d3">1.162</data>
+</node>
+<node id="19">
+  <data key="d0">Cake</data>
+  <data key="d1">0.023</data>
+  <data key="d2">0.071</data>
+  <data key="d3">0.692</data>
+</node>
+<node id="20">
+  <data key="d0">Tea</data>
+  <data key="d1">0.142</data>
+  <data key="d2">0.142</data>
+  <data key="d3">1.0</data>
+</node>
+<node id="21">
+  <data key="d0">Cake</data>
+  <data key="d1">0.024</data>
+  <data key="d2">0.166</data>
+  <data key="d3">1.612</data>
+</node>
+<node id="22">
+  <data key="d0">Cake</data>
+  <data key="d1">0.054</data>
+  <data key="d2">0.114</data>
+  <data key="d3">1.109</data>
+</node>
+<node id="23">
+  <data key="d0">Tea</data>
+  <data key="d1">0.028</data>
+  <data key="d2">0.086</data>
+  <data key="d3">0.606</data>
+</node>
+<node id="24">
+  <data key="d0">Tea</data>
+  <data key="d1">0.05</data>
+  <data key="d2">0.104</data>
+  <data key="d3">0.736</data>
+</node>
+<node id="25">
+  <data key="d0">Bread</data>
+  <data key="d1">0.089</data>
+  <data key="d2">0.188</data>
+  <data key="d3">0.579</data>
+</node>
+<edge source="0" target="1"/>
+<edge source="0" target="2"/>
+<edge source="0" target="3"/>
+<edge source="0" target="5"/>
+<edge source="0" target="6"/>
+<edge source="0" target="7"/>
+<edge source="0" target="8"/>
+<edge source="0" target="10"/>
+<edge source="0" target="11"/>
+<edge source="0" target="16"/>
+<edge source="0" target="20"/>
+<edge source="3" target="4"/>
+<edge source="3" target="9"/>
+<edge source="3" target="12"/>
+<edge source="3" target="13"/>
+<edge source="3" target="14"/>
+<edge source="3" target="15"/>
+<edge source="3" target="18"/>
+<edge source="3" target="22"/>
+<edge source="3" target="24"/>
+<edge source="3" target="25"/>
+<edge source="16" target="17"/>
+<edge source="16" target="19"/>
+<edge source="16" target="23"/>
+<edge source="20" target="21"/>
+</graph></graphml>

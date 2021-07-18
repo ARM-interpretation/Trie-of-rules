@@ -1,11 +1,12 @@
 import trieofrules.arm as arm
 import networkx as nx
 import matplotlib.pyplot as plt
+from math import log
 
 
 class trieofrules:
     def __init__(self, data, min_support = 0.1, alg='FP-max',frequent_sequences = None,
-                    round_value = 3):
+                    round_value = 3, min_len = 0):
         """
         init with raw data. it's neede for metrics
         Uses mlxtnd arm, so it may work badly with large-scale dataset
@@ -20,7 +21,7 @@ class trieofrules:
             self.frequent_sequences = frequent_sequences
             self.frequent_items = arm.find_frequent_items_by_sequencset(self.data, self.frequent_sequences)
         else:
-            self.frequent_sequences = arm.mine_frequent_sequences(data, min_support, alg)
+            self.frequent_sequences = arm.mine_frequent_sequences(data, min_support, alg, min_len)
             self.frequent_items = arm.find_frequent_items(self.data, self.min_support)
 
 
@@ -105,6 +106,7 @@ class trieofrules:
             print("Wrong file format. Use:", ', '.join(save_function.keys()))
 
 
+
     def save(self):
         lift_max = self.trie.nodes[0]['lift']
         lift_min = self.trie.nodes[0]['lift']
@@ -116,7 +118,7 @@ class trieofrules:
             viz = {}
             viz['size'] =  self.trie.nodes[i]['confidence']*20+15
             lift = self.trie.nodes[i]['lift']
-            green = round((lift/lift_max)**(1/2)*127)
+            green = round(log(lift/lift_max+1,2)*127)
             if lift>1:
                 viz['color'] = {'a':0, 'r':190-green , 'g':255-green , 'b': 190-green}
             else:
