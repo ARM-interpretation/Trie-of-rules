@@ -6,7 +6,7 @@ from math import log
 
 class trieofrules:
     def __init__(self, data, min_support = 0.1, alg='FP-max',frequent_sequences = None,
-                    round_value = 3, min_len = 0):
+                    round_value = 3, min_len = 0, sorted = True ):
         """
         init with raw data. it's neede for metrics
         Uses mlxtnd arm, so it may work badly with large-scale dataset
@@ -25,11 +25,11 @@ class trieofrules:
             self.frequent_items = arm.find_frequent_items(self.data, self.min_support)
 
 
-        self.create_trie()
+        self.create_trie(sorted)
         self.add_metrics(self.root_node_id) #extend trie with ARM metrics starting from root
 
 
-    def create_trie(self):
+    def create_trie(self, sorted =  True):
         """
         create actual Trie of rules
         """
@@ -39,9 +39,12 @@ class trieofrules:
 
         for sequence in self.frequent_sequences:
             sorted_items = []
-            for el in self.frequent_items.keys():
-                if el in sequence:
-                    sorted_items.append(el)
+            if sorted:
+                for el in self.frequent_items.keys():
+                    if el in sequence:
+                        sorted_items.append(el)
+            else:
+               sorted_items = list(sequence) 
             if len(sorted_items) > 0:
                 self.insert_tree(sorted_items)
 
@@ -98,7 +101,7 @@ class trieofrules:
         save_function = {
                     'gexf':nx.write_gexf,
                     'gml':nx.write_gml,
-                    'graphml': nx.nx.write_graphml_lxml
+                    'graphml': nx.write_graphml_lxml
         }
         try:
             save_function[fileformat](self.trie, filename)
@@ -128,3 +131,11 @@ class trieofrules:
             self.trie.nodes[i]['viz'] = viz#{'size':round((self.trie.nodes[i]['confidence'])*20+15)}
 
         nx.write_gexf(self.trie,'test.gexf')
+
+
+    def filter_trie(self, min_confidence = 0.3):
+        leaves_to_remove = [node for node in self.trie.nodes() if self.trie.out_degree(node) == 0 and self.trie.nodes[node]['confidence'] <= min_confidence]
+        for leaf in leaves_to_remove:
+            self.trie.remove_node(leaf)
+
+        

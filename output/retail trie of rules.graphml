@@ -1,950 +1,953 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="node" attr.name="lift" attr.type="double"/>
-<key id="d2" for="node" attr.name="confidence" attr.type="double"/>
-<key id="d1" for="node" attr.name="support" attr.type="double"/>
-<key id="d0" for="node" attr.name="value" attr.type="string"/>
-<graph edgedefault="directed"><node id="0">
-  <data key="d0">NULL</data>
-  <data key="d1">1.0</data>
-  <data key="d2">1.0</data>
-  <data key="d3">1.0</data>
-</node>
-<node id="1">
-  <data key="d0">WHITE HANGING HEART T-LIGHT HOLDER</data>
-  <data key="d1">0.107</data>
-  <data key="d2">0.107</data>
-  <data key="d3">0.972</data>
-</node>
-<node id="2">
-  <data key="d0">CANDLEHOLDER PINK HANGING HEART</data>
-  <data key="d1">0.016</data>
-  <data key="d2">0.153</data>
-  <data key="d3">6.704</data>
-</node>
-<node id="3">
-  <data key="d0">BAKING SET 9 PIECE RETROSPOT </data>
-  <data key="d1">0.046</data>
-  <data key="d2">0.046</data>
-  <data key="d3">0.985</data>
-</node>
-<node id="4">
-  <data key="d0">BAKING SET SPACEBOY DESIGN</data>
-  <data key="d1">0.017</data>
-  <data key="d2">0.366</data>
-  <data key="d3">15.833</data>
-</node>
-<node id="5">
-  <data key="d0">WOODEN HEART CHRISTMAS SCANDINAVIAN</data>
-  <data key="d1">0.025</data>
-  <data key="d2">0.025</data>
-  <data key="d3">0.965</data>
-</node>
-<node id="6">
-  <data key="d0">WOODEN STAR CHRISTMAS SCANDINAVIAN</data>
-  <data key="d1">0.017</data>
-  <data key="d2">0.69</data>
-  <data key="d3">28.168</data>
-</node>
-<node id="7">
-  <data key="d0">ALARM CLOCK BAKELIKE RED </data>
-  <data key="d1">0.047</data>
-  <data key="d2">0.047</data>
-  <data key="d3">0.976</data>
-</node>
-<node id="8">
-  <data key="d0">ALARM CLOCK BAKELIKE IVORY</data>
-  <data key="d1">0.017</data>
-  <data key="d2">0.361</data>
-  <data key="d3">14.006</data>
-</node>
-<node id="9">
-  <data key="d0">JUMBO BAG APPLES</data>
-  <data key="d1">0.039</data>
-  <data key="d2">0.039</data>
-  <data key="d3">0.989</data>
-</node>
-<node id="10">
-  <data key="d0">JUMBO BAG PEARS</data>
-  <data key="d1">0.017</data>
-  <data key="d2">0.433</data>
-  <data key="d3">16.771</data>
-</node>
-<node id="11">
-  <data key="d0">HAND WARMER OWL DESIGN</data>
-  <data key="d1">0.031</data>
-  <data key="d2">0.031</data>
-  <data key="d3">0.963</data>
-</node>
-<node id="12">
-  <data key="d0">HAND WARMER SCOTTY DOG DESIGN</data>
-  <data key="d1">0.015</data>
-  <data key="d2">0.49</data>
-  <data key="d3">18.057</data>
-</node>
-<node id="13">
-  <data key="d0">RED RETROSPOT CHARLOTTE BAG</data>
-  <data key="d1">0.04</data>
-  <data key="d2">0.04</data>
-  <data key="d3">0.984</data>
-</node>
-<node id="14">
-  <data key="d0">CHARLOTTE BAG PINK POLKADOT</data>
-  <data key="d1">0.017</data>
-  <data key="d2">0.436</data>
-  <data key="d3">16.197</data>
-</node>
-<node id="15">
-  <data key="d0">STRAWBERRY CHARLOTTE BAG</data>
-  <data key="d1">0.016</data>
-  <data key="d2">0.4</data>
-  <data key="d3">14.8</data>
-</node>
-<node id="16">
-  <data key="d0">CHOCOLATE HOT WATER BOTTLE</data>
-  <data key="d1">0.038</data>
-  <data key="d2">0.038</data>
-  <data key="d3">0.98</data>
-</node>
-<node id="17">
-  <data key="d0">HOT WATER BOTTLE I AM SO POORLY</data>
-  <data key="d1">0.016</data>
-  <data key="d2">0.41</data>
-  <data key="d3">14.631</data>
-</node>
-<node id="18">
-  <data key="d0">SMALL WHITE HEART OF WICKER</data>
-  <data key="d1">0.031</data>
-  <data key="d2">0.031</data>
-  <data key="d3">0.962</data>
-</node>
-<node id="19">
-  <data key="d0">LARGE WHITE HEART OF WICKER</data>
-  <data key="d1">0.015</data>
-  <data key="d2">0.49</data>
-  <data key="d3">17.168</data>
-</node>
-<node id="20">
-  <data key="d0">WOODLAND CHARLOTTE BAG</data>
-  <data key="d1">0.016</data>
-  <data key="d2">0.391</data>
-  <data key="d3">13.233</data>
-</node>
-<node id="21">
-  <data key="d0">JUMBO BAG PINK VINTAGE PAISLEY</data>
-  <data key="d1">0.033</data>
-  <data key="d2">0.033</data>
-  <data key="d3">0.993</data>
-</node>
-<node id="22">
-  <data key="d0">JUMBO BAG SCANDINAVIAN BLUE PAISLEY</data>
-  <data key="d1">0.015</data>
-  <data key="d2">0.462</data>
-  <data key="d3">15.565</data>
-</node>
-<node id="23">
-  <data key="d0">JUMBO BAG RED RETROSPOT</data>
-  <data key="d1">0.087</data>
-  <data key="d2">0.087</data>
-  <data key="d3">0.989</data>
-</node>
-<node id="24">
-  <data key="d0">JUMBO BAG SCANDINAVIAN BLUE PAISLEY</data>
-  <data key="d1">0.017</data>
-  <data key="d2">0.199</data>
-  <data key="d3">6.7</data>
-</node>
-<node id="25">
-  <data key="d0">REGENCY CAKESTAND 3 TIER</data>
-  <data key="d1">0.092</data>
-  <data key="d2">0.092</data>
-  <data key="d3">0.988</data>
-</node>
-<node id="26">
-  <data key="d0">PINK REGENCY TEACUP AND SAUCER</data>
-  <data key="d1">0.017</data>
-  <data key="d2">0.182</data>
-  <data key="d3">5.751</data>
-</node>
-<node id="27">
-  <data key="d0">ROSES REGENCY TEACUP AND SAUCER </data>
-  <data key="d1">0.042</data>
-  <data key="d2">0.042</data>
-  <data key="d3">0.978</data>
-</node>
-<node id="28">
-  <data key="d0">GREEN REGENCY TEACUP AND SAUCER</data>
-  <data key="d1">0.029</data>
-  <data key="d2">0.697</data>
-  <data key="d3">17.915</data>
-</node>
-<node id="29">
-  <data key="d0">PINK REGENCY TEACUP AND SAUCER</data>
-  <data key="d1">0.021</data>
-  <data key="d2">0.728</data>
-  <data key="d3">23.028</data>
-</node>
-<node id="30">
-  <data key="d0">PLASTERS IN TIN WOODLAND ANIMALS</data>
-  <data key="d1">0.032</data>
-  <data key="d2">0.032</data>
-  <data key="d3">0.97</data>
-</node>
-<node id="31">
-  <data key="d0">PLASTERS IN TIN SPACEBOY</data>
-  <data key="d1">0.016</data>
-  <data key="d2">0.494</data>
-  <data key="d3">15.362</data>
-</node>
-<node id="32">
-  <data key="d0">CHARLOTTE BAG SUKI DESIGN</data>
-  <data key="d1">0.016</data>
-  <data key="d2">0.403</data>
-  <data key="d3">12.437</data>
-</node>
-<node id="33">
-  <data key="d0">LUNCH BAG APPLE DESIGN</data>
-  <data key="d1">0.047</data>
-  <data key="d2">0.047</data>
-  <data key="d3">0.968</data>
-</node>
-<node id="34">
-  <data key="d0">LUNCH BAG VINTAGE LEAF DESIGN</data>
-  <data key="d1">0.016</data>
-  <data key="d2">0.35</data>
-  <data key="d3">10.517</data>
-</node>
-<node id="35">
-  <data key="d0">LUNCH BAG VINTAGE DOILY </data>
-  <data key="d1">0.054</data>
-  <data key="d2">0.054</data>
-  <data key="d3">0.978</data>
-</node>
-<node id="36">
-  <data key="d0">LUNCH BAG VINTAGE LEAF DESIGN</data>
-  <data key="d1">0.017</data>
-  <data key="d2">0.32</data>
-  <data key="d3">9.606</data>
-</node>
-<node id="37">
-  <data key="d0">LUNCH BAG SUKI DESIGN </data>
-  <data key="d1">0.056</data>
-  <data key="d2">0.056</data>
-  <data key="d3">0.963</data>
-</node>
-<node id="38">
-  <data key="d0">LUNCH BAG DOLLY GIRL DESIGN</data>
-  <data key="d1">0.016</data>
-  <data key="d2">0.29</data>
-  <data key="d3">8.725</data>
-</node>
-<node id="39">
-  <data key="d0">LUNCH BAG RED RETROSPOT</data>
-  <data key="d1">0.07</data>
-  <data key="d2">0.07</data>
-  <data key="d3">0.979</data>
-</node>
-<node id="40">
-  <data key="d0">LUNCH BAG DOLLY GIRL DESIGN</data>
-  <data key="d1">0.017</data>
-  <data key="d2">0.239</data>
-  <data key="d3">7.189</data>
-</node>
-<node id="41">
-  <data key="d0">LUNCH BAG SPACEBOY DESIGN </data>
-  <data key="d1">0.053</data>
-  <data key="d2">0.053</data>
-  <data key="d3">0.98</data>
-</node>
-<node id="42">
-  <data key="d0">LUNCH BAG DOLLY GIRL DESIGN</data>
-  <data key="d1">0.019</data>
-  <data key="d2">0.363</data>
-  <data key="d3">10.94</data>
-</node>
-<node id="43">
-  <data key="d0">GIN + TONIC DIET METAL SIGN</data>
-  <data key="d1">0.037</data>
-  <data key="d2">0.037</data>
-  <data key="d3">0.987</data>
-</node>
-<node id="44">
-  <data key="d0">COOK WITH WINE METAL SIGN </data>
-  <data key="d1">0.016</data>
-  <data key="d2">0.427</data>
-  <data key="d3">12.874</data>
-</node>
-<node id="45">
-  <data key="d0">JUMBO BAG PINK VINTAGE PAISLEY</data>
-  <data key="d1">0.018</data>
-  <data key="d2">0.206</data>
-  <data key="d3">6.278</data>
-</node>
-<node id="46">
-  <data key="d0">ALARM CLOCK BAKELIKE GREEN</data>
-  <data key="d1">0.043</data>
-  <data key="d2">0.043</data>
-  <data key="d3">0.976</data>
-</node>
-<node id="47">
-  <data key="d0">ALARM CLOCK BAKELIKE PINK</data>
-  <data key="d1">0.019</data>
-  <data key="d2">0.432</data>
-  <data key="d3">12.845</data>
-</node>
-<node id="48">
-  <data key="d0">ALARM CLOCK BAKELIKE PINK</data>
-  <data key="d1">0.021</data>
-  <data key="d2">0.456</data>
-  <data key="d3">13.568</data>
-</node>
-<node id="49">
-  <data key="d0">SPACEBOY LUNCH BOX </data>
-  <data key="d1">0.038</data>
-  <data key="d2">0.038</data>
-  <data key="d3">0.978</data>
-</node>
-<node id="50">
-  <data key="d0">DOLLY GIRL LUNCH BOX</data>
-  <data key="d1">0.023</data>
-  <data key="d2">0.604</data>
-  <data key="d3">17.544</data>
-</node>
-<node id="51">
-  <data key="d0">GARDENERS KNEELING PAD KEEP CALM </data>
-  <data key="d1">0.041</data>
-  <data key="d2">0.041</data>
-  <data key="d3">0.984</data>
-</node>
-<node id="52">
-  <data key="d0">GARDENERS KNEELING PAD CUP OF TEA </data>
-  <data key="d1">0.025</data>
-  <data key="d2">0.611</data>
-  <data key="d3">17.4</data>
-</node>
-<node id="53">
-  <data key="d0">LUNCH BAG ALPHABET DESIGN</data>
-  <data key="d1">0.017</data>
-  <data key="d2">0.355</data>
-  <data key="d3">9.766</data>
-</node>
-<node id="54">
-  <data key="d0">JUMBO  BAG BAROQUE BLACK WHITE</data>
-  <data key="d1">0.02</data>
-  <data key="d2">0.225</data>
-  <data key="d3">6.314</data>
-</node>
-<node id="55">
-  <data key="d0">SET OF 3 CAKE TINS PANTRY DESIGN </data>
-  <data key="d1">0.062</data>
-  <data key="d2">0.062</data>
-  <data key="d3">0.989</data>
-</node>
-<node id="56">
-  <data key="d0">SET OF 6 SPICE TINS PANTRY DESIGN</data>
-  <data key="d1">0.016</data>
-  <data key="d2">0.26</data>
-  <data key="d3">7.131</data>
-</node>
-<node id="57">
-  <data key="d0">JUMBO BAG PINK POLKADOT</data>
-  <data key="d1">0.047</data>
-  <data key="d2">0.047</data>
-  <data key="d3">0.979</data>
-</node>
-<node id="58">
-  <data key="d0">JUMBO BAG STRAWBERRY</data>
-  <data key="d1">0.016</data>
-  <data key="d2">0.337</data>
-  <data key="d3">9.389</data>
-</node>
-<node id="59">
-  <data key="d0">JUMBO BAG STRAWBERRY</data>
-  <data key="d1">0.022</data>
-  <data key="d2">0.257</data>
-  <data key="d3">7.167</data>
-</node>
-<node id="60">
-  <data key="d0">60 TEATIME FAIRY CAKE CASES</data>
-  <data key="d1">0.036</data>
-  <data key="d2">0.036</data>
-  <data key="d3">0.951</data>
-</node>
-<node id="61">
-  <data key="d0">PACK OF 60 PINK PAISLEY CAKE CASES</data>
-  <data key="d1">0.015</data>
-  <data key="d2">0.421</data>
-  <data key="d3">11.338</data>
-</node>
-<node id="62">
-  <data key="d0">PACK OF 72 RETROSPOT CAKE CASES</data>
-  <data key="d1">0.056</data>
-  <data key="d2">0.056</data>
-  <data key="d3">0.963</data>
-</node>
-<node id="63">
-  <data key="d0">60 TEATIME FAIRY CAKE CASES</data>
-  <data key="d1">0.018</data>
-  <data key="d2">0.319</data>
-  <data key="d3">8.528</data>
-</node>
-<node id="64">
-  <data key="d0">PACK OF 60 PINK PAISLEY CAKE CASES</data>
-  <data key="d1">0.018</data>
-  <data key="d2">0.324</data>
-  <data key="d3">8.72</data>
-</node>
-<node id="65">
-  <data key="d0">RED HANGING HEART T-LIGHT HOLDER</data>
-  <data key="d1">0.025</data>
-  <data key="d2">0.231</data>
-  <data key="d3">6.137</data>
-</node>
-<node id="66">
-  <data key="d0">ROSES REGENCY TEACUP AND SAUCER </data>
-  <data key="d1">0.023</data>
-  <data key="d2">0.247</data>
-  <data key="d3">5.699</data>
-</node>
-<node id="67">
-  <data key="d0">GREEN REGENCY TEACUP AND SAUCER</data>
-  <data key="d1">0.017</data>
-  <data key="d2">0.734</data>
-  <data key="d3">18.867</data>
-</node>
-<node id="68">
-  <data key="d0">PAPER CHAIN KIT 50'S CHRISTMAS </data>
-  <data key="d1">0.053</data>
-  <data key="d2">0.053</data>
-  <data key="d3">0.962</data>
-</node>
-<node id="69">
-  <data key="d0">PAPER CHAIN KIT VINTAGE CHRISTMAS</data>
-  <data key="d1">0.024</data>
-  <data key="d2">0.46</data>
-  <data key="d3">11.935</data>
-</node>
-<node id="70">
-  <data key="d0">JUMBO BAG VINTAGE LEAF</data>
-  <data key="d1">0.042</data>
-  <data key="d2">0.042</data>
-  <data key="d3">0.987</data>
-</node>
-<node id="71">
-  <data key="d0">JUMBO BAG APPLES</data>
-  <data key="d1">0.015</data>
-  <data key="d2">0.366</data>
-  <data key="d3">9.314</data>
-</node>
-<node id="72">
-  <data key="d0">JUMBO BAG APPLES</data>
-  <data key="d1">0.016</data>
-  <data key="d2">0.341</data>
-  <data key="d3">8.675</data>
-</node>
-<node id="73">
-  <data key="d0">JUMBO BAG VINTAGE DOILY </data>
-  <data key="d1">0.058</data>
-  <data key="d2">0.058</data>
-  <data key="d3">0.984</data>
-</node>
-<node id="74">
-  <data key="d0">JUMBO BAG APPLES</data>
-  <data key="d1">0.017</data>
-  <data key="d2">0.3</data>
-  <data key="d3">7.647</data>
-</node>
-<node id="75">
-  <data key="d0">JUMBO BAG APPLES</data>
-  <data key="d1">0.019</data>
-  <data key="d2">0.218</data>
-  <data key="d3">5.557</data>
-</node>
-<node id="76">
-  <data key="d0">JUMBO BAG ALPHABET</data>
-  <data key="d1">0.016</data>
-  <data key="d2">0.274</data>
-  <data key="d3">6.661</data>
-</node>
-<node id="77">
-  <data key="d0">JUMBO BAG ALPHABET</data>
-  <data key="d1">0.016</data>
-  <data key="d2">0.184</data>
-  <data key="d3">4.471</data>
-</node>
-<node id="78">
-  <data key="d0">JUMBO BAG VINTAGE LEAF</data>
-  <data key="d1">0.019</data>
-  <data key="d2">0.215</data>
-  <data key="d3">5.071</data>
-</node>
-<node id="79">
-  <data key="d0">JUMBO BAG VINTAGE LEAF</data>
-  <data key="d1">0.023</data>
-  <data key="d2">0.399</data>
-  <data key="d3">9.436</data>
-</node>
-<node id="80">
-  <data key="d0">JUMBO STORAGE BAG SUKI</data>
-  <data key="d1">0.015</data>
-  <data key="d2">0.323</data>
-  <data key="d3">7.636</data>
-</node>
-<node id="81">
-  <data key="d0">JUMBO STORAGE BAG SUKI</data>
-  <data key="d1">0.023</data>
-  <data key="d2">0.27</data>
-  <data key="d3">6.371</data>
-</node>
-<node id="82">
-  <data key="d0">ALARM CLOCK BAKELIKE GREEN</data>
-  <data key="d1">0.029</data>
-  <data key="d2">0.61</data>
-  <data key="d3">13.956</data>
-</node>
-<node id="83">
-  <data key="d0">JUMBO SHOPPER VINTAGE RED PAISLEY</data>
-  <data key="d1">0.021</data>
-  <data key="d2">0.246</data>
-  <data key="d3">5.668</data>
-</node>
-<node id="84">
-  <data key="d0">HEART OF WICKER LARGE</data>
-  <data key="d1">0.016</data>
-  <data key="d2">0.147</data>
-  <data key="d3">3.321</data>
-</node>
-<node id="85">
-  <data key="d0">HEART OF WICKER SMALL</data>
-  <data key="d1">0.052</data>
-  <data key="d2">0.052</data>
-  <data key="d3">0.976</data>
-</node>
-<node id="86">
-  <data key="d0">HEART OF WICKER LARGE</data>
-  <data key="d1">0.022</data>
-  <data key="d2">0.423</data>
-  <data key="d3">9.557</data>
-</node>
-<node id="87">
-  <data key="d0">WOODEN PICTURE FRAME WHITE FINISH</data>
-  <data key="d1">0.047</data>
-  <data key="d2">0.047</data>
-  <data key="d3">0.988</data>
-</node>
-<node id="88">
-  <data key="d0">WOODEN FRAME ANTIQUE WHITE </data>
-  <data key="d1">0.025</data>
-  <data key="d2">0.539</data>
-  <data key="d3">12.143</data>
-</node>
-<node id="89">
-  <data key="d0">LUNCH BAG WOODLAND</data>
-  <data key="d1">0.016</data>
-  <data key="d2">0.343</data>
-  <data key="d3">7.53</data>
-</node>
-<node id="90">
-  <data key="d0">LUNCH BAG PINK POLKADOT</data>
-  <data key="d1">0.05</data>
-  <data key="d2">0.05</data>
-  <data key="d3">0.973</data>
-</node>
-<node id="91">
-  <data key="d0">LUNCH BAG WOODLAND</data>
-  <data key="d1">0.017</data>
-  <data key="d2">0.344</data>
-  <data key="d3">7.553</data>
-</node>
-<node id="92">
-  <data key="d0">LUNCH BAG  BLACK SKULL.</data>
-  <data key="d1">0.057</data>
-  <data key="d2">0.057</data>
-  <data key="d3">0.952</data>
-</node>
-<node id="93">
-  <data key="d0">LUNCH BAG WOODLAND</data>
-  <data key="d1">0.019</data>
-  <data key="d2">0.329</data>
-  <data key="d3">7.23</data>
-</node>
-<node id="94">
-  <data key="d0">LUNCH BAG WOODLAND</data>
-  <data key="d1">0.02</data>
-  <data key="d2">0.35</data>
-  <data key="d3">7.677</data>
-</node>
-<node id="95">
-  <data key="d0">LUNCH BAG CARS BLUE</data>
-  <data key="d1">0.052</data>
-  <data key="d2">0.052</data>
-  <data key="d3">0.977</data>
-</node>
-<node id="96">
-  <data key="d0">LUNCH BAG WOODLAND</data>
-  <data key="d1">0.02</data>
-  <data key="d2">0.377</data>
-  <data key="d3">8.268</data>
-</node>
-<node id="97">
-  <data key="d0">LUNCH BAG WOODLAND</data>
-  <data key="d1">0.022</data>
-  <data key="d2">0.413</data>
-  <data key="d3">9.075</data>
-</node>
-<node id="98">
-  <data key="d0">LUNCH BAG WOODLAND</data>
-  <data key="d1">0.023</data>
-  <data key="d2">0.335</data>
-  <data key="d3">7.346</data>
-</node>
-<node id="99">
-  <data key="d0">LUNCH BAG APPLE DESIGN</data>
-  <data key="d1">0.016</data>
-  <data key="d2">0.302</data>
-  <data key="d3">6.231</data>
-</node>
-<node id="100">
-  <data key="d0">LUNCH BAG APPLE DESIGN</data>
-  <data key="d1">0.016</data>
-  <data key="d2">0.314</data>
-  <data key="d3">6.48</data>
-</node>
-<node id="101">
-  <data key="d0">LUNCH BAG APPLE DESIGN</data>
-  <data key="d1">0.017</data>
-  <data key="d2">0.316</data>
-  <data key="d3">6.535</data>
-</node>
-<node id="102">
-  <data key="d0">LUNCH BAG APPLE DESIGN</data>
-  <data key="d1">0.017</data>
-  <data key="d2">0.304</data>
-  <data key="d3">6.273</data>
-</node>
-<node id="103">
-  <data key="d0">LUNCH BAG APPLE DESIGN</data>
-  <data key="d1">0.019</data>
-  <data key="d2">0.348</data>
-  <data key="d3">7.183</data>
-</node>
-<node id="104">
-  <data key="d0">LUNCH BAG APPLE DESIGN</data>
-  <data key="d1">0.021</data>
-  <data key="d2">0.381</data>
-  <data key="d3">7.863</data>
-</node>
-<node id="105">
-  <data key="d0">LUNCH BAG APPLE DESIGN</data>
-  <data key="d1">0.021</data>
-  <data key="d2">0.301</data>
-  <data key="d3">6.209</data>
-</node>
-<node id="106">
-  <data key="d0">JAM MAKING SET WITH JARS</data>
-  <data key="d1">0.048</data>
-  <data key="d2">0.048</data>
-  <data key="d3">0.99</data>
-</node>
-<node id="107">
-  <data key="d0">JAM MAKING SET PRINTED</data>
-  <data key="d1">0.017</data>
-  <data key="d2">0.347</data>
-  <data key="d3">7.333</data>
-</node>
-<node id="108">
-  <data key="d0">JUMBO BAG PINK POLKADOT</data>
-  <data key="d1">0.03</data>
-  <data key="d2">0.34</data>
-  <data key="d3">7.052</data>
-</node>
-<node id="109">
-  <data key="d0">WOODEN PICTURE FRAME WHITE FINISH</data>
-  <data key="d1">0.017</data>
-  <data key="d2">0.156</data>
-  <data key="d3">3.245</data>
-</node>
-<node id="110">
-  <data key="d0">LUNCH BAG PINK POLKADOT</data>
-  <data key="d1">0.017</data>
-  <data key="d2">0.311</data>
-  <data key="d3">5.999</data>
-</node>
-<node id="111">
-  <data key="d0">LUNCH BAG PINK POLKADOT</data>
-  <data key="d1">0.02</data>
-  <data key="d2">0.375</data>
-  <data key="d3">7.236</data>
-</node>
-<node id="112">
-  <data key="d0">LUNCH BAG SUKI DESIGN </data>
-  <data key="d1">0.028</data>
-  <data key="d2">0.401</data>
-  <data key="d3">6.846</data>
-</node>
-<node id="113">
-  <data key="d0">LUNCH BAG PINK POLKADOT</data>
-  <data key="d1">0.015</data>
-  <data key="d2">0.541</data>
-  <data key="d3">10.449</data>
-</node>
-<node id="114">
-  <data key="d0">LUNCH BAG CARS BLUE</data>
-  <data key="d1">0.025</data>
-  <data key="d2">0.355</data>
-  <data key="d3">6.63</data>
-</node>
-<node id="115">
-  <data key="d0">LUNCH BAG PINK POLKADOT</data>
-  <data key="d1">0.015</data>
-  <data key="d2">0.604</data>
-  <data key="d3">11.661</data>
-</node>
-<node id="116">
-  <data key="d0">LUNCH BAG  BLACK SKULL.</data>
-  <data key="d1">0.028</data>
-  <data key="d2">0.4</data>
-  <data key="d3">6.684</data>
-</node>
-<node id="117">
-  <data key="d0">LUNCH BAG PINK POLKADOT</data>
-  <data key="d1">0.017</data>
-  <data key="d2">0.595</data>
-  <data key="d3">11.494</data>
-</node>
-<node id="118">
-  <data key="d0">LUNCH BAG CARS BLUE</data>
-  <data key="d1">0.021</data>
-  <data key="d2">0.399</data>
-  <data key="d3">7.459</data>
-</node>
-<node id="119">
-  <data key="d0">LUNCH BAG CARS BLUE</data>
-  <data key="d1">0.023</data>
-  <data key="d2">0.4</data>
-  <data key="d3">7.468</data>
-</node>
-<node id="120">
-  <data key="d0">LUNCH BAG CARS BLUE</data>
-  <data key="d1">0.024</data>
-  <data key="d2">0.437</data>
-  <data key="d3">8.161</data>
-</node>
-<node id="121">
-  <data key="d0">LUNCH BAG SPACEBOY DESIGN </data>
-  <data key="d1">0.017</data>
-  <data key="d2">0.31</data>
-  <data key="d3">5.677</data>
-</node>
-<node id="122">
-  <data key="d0">LUNCH BAG SPACEBOY DESIGN </data>
-  <data key="d1">0.023</data>
-  <data key="d2">0.397</data>
-  <data key="d3">7.275</data>
-</node>
-<node id="123">
-  <data key="d0">LUNCH BAG SPACEBOY DESIGN </data>
-  <data key="d1">0.024</data>
-  <data key="d2">0.432</data>
-  <data key="d3">7.919</data>
-</node>
-<node id="124">
-  <data key="d0">LUNCH BAG SPACEBOY DESIGN </data>
-  <data key="d1">0.025</data>
-  <data key="d2">0.361</data>
-  <data key="d3">6.618</data>
-</node>
-<node id="125">
-  <data key="d0">LUNCH BAG VINTAGE DOILY </data>
-  <data key="d1">0.018</data>
-  <data key="d2">0.32</data>
-  <data key="d3">5.744</data>
-</node>
-<node id="126">
-  <data key="d0">LUNCH BAG VINTAGE DOILY </data>
-  <data key="d1">0.018</data>
-  <data key="d2">0.317</data>
-  <data key="d3">5.695</data>
-</node>
-<node id="127">
-  <data key="d0">LUNCH BAG VINTAGE DOILY </data>
-  <data key="d1">0.023</data>
-  <data key="d2">0.324</data>
-  <data key="d3">5.817</data>
-</node>
-<node id="128">
-  <data key="d0">LUNCH BAG VINTAGE DOILY </data>
-  <data key="d1">0.024</data>
-  <data key="d2">0.413</data>
-  <data key="d3">7.423</data>
-</node>
-<node id="129">
-  <data key="d0">PARTY BUNTING</data>
-  <data key="d1">0.075</data>
-  <data key="d2">0.075</data>
-  <data key="d3">0.988</data>
-</node>
-<node id="130">
-  <data key="d0">SPOTTY BUNTING</data>
-  <data key="d1">0.021</data>
-  <data key="d2">0.281</data>
-  <data key="d3">5.065</data>
-</node>
-<node id="131">
-  <data key="d0">LUNCH BAG SUKI DESIGN </data>
-  <data key="d1">0.015</data>
-  <data key="d2">0.541</data>
-  <data key="d3">9.234</data>
-</node>
-<node id="132">
-  <data key="d0">JUMBO BAG VINTAGE DOILY </data>
-  <data key="d1">0.025</data>
-  <data key="d2">0.291</data>
-  <data key="d3">4.899</data>
-</node>
-<node id="133">
-  <data key="d0">LUNCH BAG RED RETROSPOT</data>
-  <data key="d1">0.023</data>
-  <data key="d2">0.264</data>
-  <data key="d3">3.709</data>
-</node>
-<node id="134">
-  <data key="d0">PARTY BUNTING</data>
-  <data key="d1">0.015</data>
-  <data key="d2">0.141</data>
-  <data key="d3">1.866</data>
-</node>
-<edge source="0" target="1"/>
-<edge source="0" target="3"/>
-<edge source="0" target="5"/>
-<edge source="0" target="7"/>
-<edge source="0" target="9"/>
-<edge source="0" target="11"/>
-<edge source="0" target="13"/>
-<edge source="0" target="16"/>
-<edge source="0" target="18"/>
-<edge source="0" target="21"/>
-<edge source="0" target="23"/>
-<edge source="0" target="25"/>
-<edge source="0" target="27"/>
-<edge source="0" target="30"/>
-<edge source="0" target="33"/>
-<edge source="0" target="35"/>
-<edge source="0" target="37"/>
-<edge source="0" target="39"/>
-<edge source="0" target="41"/>
-<edge source="0" target="43"/>
-<edge source="0" target="46"/>
-<edge source="0" target="49"/>
-<edge source="0" target="51"/>
-<edge source="0" target="55"/>
-<edge source="0" target="57"/>
-<edge source="0" target="60"/>
-<edge source="0" target="62"/>
-<edge source="0" target="68"/>
-<edge source="0" target="70"/>
-<edge source="0" target="73"/>
-<edge source="0" target="85"/>
-<edge source="0" target="87"/>
-<edge source="0" target="90"/>
-<edge source="0" target="92"/>
-<edge source="0" target="95"/>
-<edge source="0" target="106"/>
-<edge source="0" target="129"/>
-<edge source="1" target="2"/>
-<edge source="1" target="65"/>
-<edge source="1" target="84"/>
-<edge source="1" target="109"/>
-<edge source="1" target="134"/>
-<edge source="3" target="4"/>
-<edge source="5" target="6"/>
-<edge source="7" target="8"/>
-<edge source="7" target="48"/>
-<edge source="7" target="82"/>
-<edge source="9" target="10"/>
-<edge source="11" target="12"/>
-<edge source="13" target="14"/>
-<edge source="13" target="15"/>
-<edge source="13" target="20"/>
-<edge source="13" target="32"/>
-<edge source="16" target="17"/>
-<edge source="18" target="19"/>
-<edge source="21" target="22"/>
-<edge source="23" target="24"/>
-<edge source="23" target="45"/>
-<edge source="23" target="54"/>
-<edge source="23" target="59"/>
-<edge source="23" target="75"/>
-<edge source="23" target="77"/>
-<edge source="23" target="78"/>
-<edge source="23" target="81"/>
-<edge source="23" target="83"/>
-<edge source="23" target="108"/>
-<edge source="23" target="132"/>
-<edge source="23" target="133"/>
-<edge source="25" target="26"/>
-<edge source="25" target="66"/>
-<edge source="27" target="28"/>
-<edge source="28" target="29"/>
-<edge source="30" target="31"/>
-<edge source="33" target="34"/>
-<edge source="33" target="53"/>
-<edge source="33" target="72"/>
-<edge source="33" target="89"/>
-<edge source="35" target="36"/>
-<edge source="35" target="104"/>
-<edge source="35" target="110"/>
-<edge source="35" target="121"/>
-<edge source="37" target="38"/>
-<edge source="37" target="94"/>
-<edge source="37" target="103"/>
-<edge source="37" target="120"/>
-<edge source="37" target="123"/>
-<edge source="37" target="125"/>
-<edge source="39" target="40"/>
-<edge source="39" target="98"/>
-<edge source="39" target="105"/>
-<edge source="39" target="112"/>
-<edge source="39" target="114"/>
-<edge source="39" target="116"/>
-<edge source="39" target="124"/>
-<edge source="39" target="127"/>
-<edge source="41" target="42"/>
-<edge source="41" target="97"/>
-<edge source="41" target="101"/>
-<edge source="41" target="111"/>
-<edge source="41" target="118"/>
-<edge source="43" target="44"/>
-<edge source="46" target="47"/>
-<edge source="49" target="50"/>
-<edge source="51" target="52"/>
-<edge source="55" target="56"/>
-<edge source="57" target="58"/>
-<edge source="57" target="80"/>
-<edge source="60" target="61"/>
-<edge source="62" target="63"/>
-<edge source="62" target="64"/>
-<edge source="66" target="67"/>
-<edge source="68" target="69"/>
-<edge source="70" target="71"/>
-<edge source="73" target="74"/>
-<edge source="73" target="76"/>
-<edge source="73" target="79"/>
-<edge source="73" target="128"/>
-<edge source="85" target="86"/>
-<edge source="87" target="88"/>
-<edge source="90" target="91"/>
-<edge source="90" target="100"/>
-<edge source="92" target="93"/>
-<edge source="92" target="102"/>
-<edge source="92" target="119"/>
-<edge source="92" target="122"/>
-<edge source="92" target="126"/>
-<edge source="95" target="96"/>
-<edge source="95" target="99"/>
-<edge source="106" target="107"/>
-<edge source="112" target="113"/>
-<edge source="114" target="115"/>
-<edge source="116" target="117"/>
-<edge source="116" target="131"/>
-<edge source="129" target="130"/>
-</graph></graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="node" attr.name="lift" attr.type="double" />
+  <key id="d2" for="node" attr.name="confidence" attr.type="double" />
+  <key id="d1" for="node" attr.name="support" attr.type="double" />
+  <key id="d0" for="node" attr.name="value" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="0">
+      <data key="d0">NULL</data>
+      <data key="d1">1.0</data>
+      <data key="d2">1.0</data>
+      <data key="d3">1.0</data>
+    </node>
+    <node id="1">
+      <data key="d0">WHITE HANGING HEART T-LIGHT HOLDER</data>
+      <data key="d1">0.107</data>
+      <data key="d2">0.107</data>
+      <data key="d3">0.972</data>
+    </node>
+    <node id="2">
+      <data key="d0">CANDLEHOLDER PINK HANGING HEART</data>
+      <data key="d1">0.016</data>
+      <data key="d2">0.153</data>
+      <data key="d3">6.704</data>
+    </node>
+    <node id="3">
+      <data key="d0">BAKING SET 9 PIECE RETROSPOT </data>
+      <data key="d1">0.046</data>
+      <data key="d2">0.046</data>
+      <data key="d3">0.985</data>
+    </node>
+    <node id="4">
+      <data key="d0">BAKING SET SPACEBOY DESIGN</data>
+      <data key="d1">0.017</data>
+      <data key="d2">0.366</data>
+      <data key="d3">15.833</data>
+    </node>
+    <node id="5">
+      <data key="d0">WOODEN HEART CHRISTMAS SCANDINAVIAN</data>
+      <data key="d1">0.025</data>
+      <data key="d2">0.025</data>
+      <data key="d3">0.965</data>
+    </node>
+    <node id="6">
+      <data key="d0">WOODEN STAR CHRISTMAS SCANDINAVIAN</data>
+      <data key="d1">0.017</data>
+      <data key="d2">0.69</data>
+      <data key="d3">28.168</data>
+    </node>
+    <node id="7">
+      <data key="d0">ALARM CLOCK BAKELIKE RED </data>
+      <data key="d1">0.047</data>
+      <data key="d2">0.047</data>
+      <data key="d3">0.976</data>
+    </node>
+    <node id="8">
+      <data key="d0">ALARM CLOCK BAKELIKE IVORY</data>
+      <data key="d1">0.017</data>
+      <data key="d2">0.361</data>
+      <data key="d3">14.006</data>
+    </node>
+    <node id="9">
+      <data key="d0">JUMBO BAG APPLES</data>
+      <data key="d1">0.039</data>
+      <data key="d2">0.039</data>
+      <data key="d3">0.989</data>
+    </node>
+    <node id="10">
+      <data key="d0">JUMBO BAG PEARS</data>
+      <data key="d1">0.017</data>
+      <data key="d2">0.433</data>
+      <data key="d3">16.771</data>
+    </node>
+    <node id="11">
+      <data key="d0">HAND WARMER OWL DESIGN</data>
+      <data key="d1">0.031</data>
+      <data key="d2">0.031</data>
+      <data key="d3">0.963</data>
+    </node>
+    <node id="12">
+      <data key="d0">HAND WARMER SCOTTY DOG DESIGN</data>
+      <data key="d1">0.015</data>
+      <data key="d2">0.49</data>
+      <data key="d3">18.057</data>
+    </node>
+    <node id="13">
+      <data key="d0">RED RETROSPOT CHARLOTTE BAG</data>
+      <data key="d1">0.04</data>
+      <data key="d2">0.04</data>
+      <data key="d3">0.984</data>
+    </node>
+    <node id="14">
+      <data key="d0">CHARLOTTE BAG PINK POLKADOT</data>
+      <data key="d1">0.017</data>
+      <data key="d2">0.436</data>
+      <data key="d3">16.197</data>
+    </node>
+    <node id="15">
+      <data key="d0">STRAWBERRY CHARLOTTE BAG</data>
+      <data key="d1">0.016</data>
+      <data key="d2">0.4</data>
+      <data key="d3">14.8</data>
+    </node>
+    <node id="16">
+      <data key="d0">CHOCOLATE HOT WATER BOTTLE</data>
+      <data key="d1">0.038</data>
+      <data key="d2">0.038</data>
+      <data key="d3">0.98</data>
+    </node>
+    <node id="17">
+      <data key="d0">HOT WATER BOTTLE I AM SO POORLY</data>
+      <data key="d1">0.016</data>
+      <data key="d2">0.41</data>
+      <data key="d3">14.631</data>
+    </node>
+    <node id="18">
+      <data key="d0">SMALL WHITE HEART OF WICKER</data>
+      <data key="d1">0.031</data>
+      <data key="d2">0.031</data>
+      <data key="d3">0.962</data>
+    </node>
+    <node id="19">
+      <data key="d0">LARGE WHITE HEART OF WICKER</data>
+      <data key="d1">0.015</data>
+      <data key="d2">0.49</data>
+      <data key="d3">17.168</data>
+    </node>
+    <node id="20">
+      <data key="d0">WOODLAND CHARLOTTE BAG</data>
+      <data key="d1">0.016</data>
+      <data key="d2">0.391</data>
+      <data key="d3">13.233</data>
+    </node>
+    <node id="21">
+      <data key="d0">JUMBO BAG PINK VINTAGE PAISLEY</data>
+      <data key="d1">0.033</data>
+      <data key="d2">0.033</data>
+      <data key="d3">0.993</data>
+    </node>
+    <node id="22">
+      <data key="d0">JUMBO BAG SCANDINAVIAN BLUE PAISLEY</data>
+      <data key="d1">0.015</data>
+      <data key="d2">0.462</data>
+      <data key="d3">15.565</data>
+    </node>
+    <node id="23">
+      <data key="d0">JUMBO BAG RED RETROSPOT</data>
+      <data key="d1">0.087</data>
+      <data key="d2">0.087</data>
+      <data key="d3">0.989</data>
+    </node>
+    <node id="24">
+      <data key="d0">JUMBO BAG SCANDINAVIAN BLUE PAISLEY</data>
+      <data key="d1">0.017</data>
+      <data key="d2">0.199</data>
+      <data key="d3">6.7</data>
+    </node>
+    <node id="25">
+      <data key="d0">REGENCY CAKESTAND 3 TIER</data>
+      <data key="d1">0.092</data>
+      <data key="d2">0.092</data>
+      <data key="d3">0.988</data>
+    </node>
+    <node id="26">
+      <data key="d0">PINK REGENCY TEACUP AND SAUCER</data>
+      <data key="d1">0.017</data>
+      <data key="d2">0.182</data>
+      <data key="d3">5.751</data>
+    </node>
+    <node id="27">
+      <data key="d0">ROSES REGENCY TEACUP AND SAUCER </data>
+      <data key="d1">0.042</data>
+      <data key="d2">0.042</data>
+      <data key="d3">0.978</data>
+    </node>
+    <node id="28">
+      <data key="d0">GREEN REGENCY TEACUP AND SAUCER</data>
+      <data key="d1">0.029</data>
+      <data key="d2">0.697</data>
+      <data key="d3">17.915</data>
+    </node>
+    <node id="29">
+      <data key="d0">PINK REGENCY TEACUP AND SAUCER</data>
+      <data key="d1">0.021</data>
+      <data key="d2">0.728</data>
+      <data key="d3">23.028</data>
+    </node>
+    <node id="30">
+      <data key="d0">PLASTERS IN TIN WOODLAND ANIMALS</data>
+      <data key="d1">0.032</data>
+      <data key="d2">0.032</data>
+      <data key="d3">0.97</data>
+    </node>
+    <node id="31">
+      <data key="d0">PLASTERS IN TIN SPACEBOY</data>
+      <data key="d1">0.016</data>
+      <data key="d2">0.494</data>
+      <data key="d3">15.362</data>
+    </node>
+    <node id="32">
+      <data key="d0">CHARLOTTE BAG SUKI DESIGN</data>
+      <data key="d1">0.016</data>
+      <data key="d2">0.403</data>
+      <data key="d3">12.437</data>
+    </node>
+    <node id="33">
+      <data key="d0">LUNCH BAG APPLE DESIGN</data>
+      <data key="d1">0.047</data>
+      <data key="d2">0.047</data>
+      <data key="d3">0.968</data>
+    </node>
+    <node id="34">
+      <data key="d0">LUNCH BAG VINTAGE LEAF DESIGN</data>
+      <data key="d1">0.016</data>
+      <data key="d2">0.35</data>
+      <data key="d3">10.517</data>
+    </node>
+    <node id="35">
+      <data key="d0">LUNCH BAG VINTAGE DOILY </data>
+      <data key="d1">0.054</data>
+      <data key="d2">0.054</data>
+      <data key="d3">0.978</data>
+    </node>
+    <node id="36">
+      <data key="d0">LUNCH BAG VINTAGE LEAF DESIGN</data>
+      <data key="d1">0.017</data>
+      <data key="d2">0.32</data>
+      <data key="d3">9.606</data>
+    </node>
+    <node id="37">
+      <data key="d0">LUNCH BAG SUKI DESIGN </data>
+      <data key="d1">0.056</data>
+      <data key="d2">0.056</data>
+      <data key="d3">0.963</data>
+    </node>
+    <node id="38">
+      <data key="d0">LUNCH BAG DOLLY GIRL DESIGN</data>
+      <data key="d1">0.016</data>
+      <data key="d2">0.29</data>
+      <data key="d3">8.725</data>
+    </node>
+    <node id="39">
+      <data key="d0">LUNCH BAG RED RETROSPOT</data>
+      <data key="d1">0.07</data>
+      <data key="d2">0.07</data>
+      <data key="d3">0.979</data>
+    </node>
+    <node id="40">
+      <data key="d0">LUNCH BAG DOLLY GIRL DESIGN</data>
+      <data key="d1">0.017</data>
+      <data key="d2">0.239</data>
+      <data key="d3">7.189</data>
+    </node>
+    <node id="41">
+      <data key="d0">LUNCH BAG SPACEBOY DESIGN </data>
+      <data key="d1">0.053</data>
+      <data key="d2">0.053</data>
+      <data key="d3">0.98</data>
+    </node>
+    <node id="42">
+      <data key="d0">LUNCH BAG DOLLY GIRL DESIGN</data>
+      <data key="d1">0.019</data>
+      <data key="d2">0.363</data>
+      <data key="d3">10.94</data>
+    </node>
+    <node id="43">
+      <data key="d0">GIN + TONIC DIET METAL SIGN</data>
+      <data key="d1">0.037</data>
+      <data key="d2">0.037</data>
+      <data key="d3">0.987</data>
+    </node>
+    <node id="44">
+      <data key="d0">COOK WITH WINE METAL SIGN </data>
+      <data key="d1">0.016</data>
+      <data key="d2">0.427</data>
+      <data key="d3">12.874</data>
+    </node>
+    <node id="45">
+      <data key="d0">JUMBO BAG PINK VINTAGE PAISLEY</data>
+      <data key="d1">0.018</data>
+      <data key="d2">0.206</data>
+      <data key="d3">6.278</data>
+    </node>
+    <node id="46">
+      <data key="d0">ALARM CLOCK BAKELIKE GREEN</data>
+      <data key="d1">0.043</data>
+      <data key="d2">0.043</data>
+      <data key="d3">0.976</data>
+    </node>
+    <node id="47">
+      <data key="d0">ALARM CLOCK BAKELIKE PINK</data>
+      <data key="d1">0.019</data>
+      <data key="d2">0.432</data>
+      <data key="d3">12.845</data>
+    </node>
+    <node id="48">
+      <data key="d0">ALARM CLOCK BAKELIKE PINK</data>
+      <data key="d1">0.021</data>
+      <data key="d2">0.456</data>
+      <data key="d3">13.568</data>
+    </node>
+    <node id="49">
+      <data key="d0">SPACEBOY LUNCH BOX </data>
+      <data key="d1">0.038</data>
+      <data key="d2">0.038</data>
+      <data key="d3">0.978</data>
+    </node>
+    <node id="50">
+      <data key="d0">DOLLY GIRL LUNCH BOX</data>
+      <data key="d1">0.023</data>
+      <data key="d2">0.604</data>
+      <data key="d3">17.544</data>
+    </node>
+    <node id="51">
+      <data key="d0">GARDENERS KNEELING PAD KEEP CALM </data>
+      <data key="d1">0.041</data>
+      <data key="d2">0.041</data>
+      <data key="d3">0.984</data>
+    </node>
+    <node id="52">
+      <data key="d0">GARDENERS KNEELING PAD CUP OF TEA </data>
+      <data key="d1">0.025</data>
+      <data key="d2">0.611</data>
+      <data key="d3">17.4</data>
+    </node>
+    <node id="53">
+      <data key="d0">LUNCH BAG ALPHABET DESIGN</data>
+      <data key="d1">0.017</data>
+      <data key="d2">0.355</data>
+      <data key="d3">9.766</data>
+    </node>
+    <node id="54">
+      <data key="d0">JUMBO  BAG BAROQUE BLACK WHITE</data>
+      <data key="d1">0.02</data>
+      <data key="d2">0.225</data>
+      <data key="d3">6.314</data>
+    </node>
+    <node id="55">
+      <data key="d0">SET OF 3 CAKE TINS PANTRY DESIGN </data>
+      <data key="d1">0.062</data>
+      <data key="d2">0.062</data>
+      <data key="d3">0.989</data>
+    </node>
+    <node id="56">
+      <data key="d0">SET OF 6 SPICE TINS PANTRY DESIGN</data>
+      <data key="d1">0.016</data>
+      <data key="d2">0.26</data>
+      <data key="d3">7.131</data>
+    </node>
+    <node id="57">
+      <data key="d0">JUMBO BAG PINK POLKADOT</data>
+      <data key="d1">0.047</data>
+      <data key="d2">0.047</data>
+      <data key="d3">0.979</data>
+    </node>
+    <node id="58">
+      <data key="d0">JUMBO BAG STRAWBERRY</data>
+      <data key="d1">0.016</data>
+      <data key="d2">0.337</data>
+      <data key="d3">9.389</data>
+    </node>
+    <node id="59">
+      <data key="d0">JUMBO BAG STRAWBERRY</data>
+      <data key="d1">0.022</data>
+      <data key="d2">0.257</data>
+      <data key="d3">7.167</data>
+    </node>
+    <node id="60">
+      <data key="d0">60 TEATIME FAIRY CAKE CASES</data>
+      <data key="d1">0.036</data>
+      <data key="d2">0.036</data>
+      <data key="d3">0.951</data>
+    </node>
+    <node id="61">
+      <data key="d0">PACK OF 60 PINK PAISLEY CAKE CASES</data>
+      <data key="d1">0.015</data>
+      <data key="d2">0.421</data>
+      <data key="d3">11.338</data>
+    </node>
+    <node id="62">
+      <data key="d0">PACK OF 72 RETROSPOT CAKE CASES</data>
+      <data key="d1">0.056</data>
+      <data key="d2">0.056</data>
+      <data key="d3">0.963</data>
+    </node>
+    <node id="63">
+      <data key="d0">60 TEATIME FAIRY CAKE CASES</data>
+      <data key="d1">0.018</data>
+      <data key="d2">0.319</data>
+      <data key="d3">8.528</data>
+    </node>
+    <node id="64">
+      <data key="d0">PACK OF 60 PINK PAISLEY CAKE CASES</data>
+      <data key="d1">0.018</data>
+      <data key="d2">0.324</data>
+      <data key="d3">8.72</data>
+    </node>
+    <node id="65">
+      <data key="d0">RED HANGING HEART T-LIGHT HOLDER</data>
+      <data key="d1">0.025</data>
+      <data key="d2">0.231</data>
+      <data key="d3">6.137</data>
+    </node>
+    <node id="66">
+      <data key="d0">ROSES REGENCY TEACUP AND SAUCER </data>
+      <data key="d1">0.023</data>
+      <data key="d2">0.247</data>
+      <data key="d3">5.699</data>
+    </node>
+    <node id="67">
+      <data key="d0">GREEN REGENCY TEACUP AND SAUCER</data>
+      <data key="d1">0.017</data>
+      <data key="d2">0.734</data>
+      <data key="d3">18.867</data>
+    </node>
+    <node id="68">
+      <data key="d0">PAPER CHAIN KIT 50'S CHRISTMAS </data>
+      <data key="d1">0.053</data>
+      <data key="d2">0.053</data>
+      <data key="d3">0.962</data>
+    </node>
+    <node id="69">
+      <data key="d0">PAPER CHAIN KIT VINTAGE CHRISTMAS</data>
+      <data key="d1">0.024</data>
+      <data key="d2">0.46</data>
+      <data key="d3">11.935</data>
+    </node>
+    <node id="70">
+      <data key="d0">JUMBO BAG VINTAGE LEAF</data>
+      <data key="d1">0.042</data>
+      <data key="d2">0.042</data>
+      <data key="d3">0.987</data>
+    </node>
+    <node id="71">
+      <data key="d0">JUMBO BAG APPLES</data>
+      <data key="d1">0.015</data>
+      <data key="d2">0.366</data>
+      <data key="d3">9.314</data>
+    </node>
+    <node id="72">
+      <data key="d0">JUMBO BAG APPLES</data>
+      <data key="d1">0.016</data>
+      <data key="d2">0.341</data>
+      <data key="d3">8.675</data>
+    </node>
+    <node id="73">
+      <data key="d0">JUMBO BAG VINTAGE DOILY </data>
+      <data key="d1">0.058</data>
+      <data key="d2">0.058</data>
+      <data key="d3">0.984</data>
+    </node>
+    <node id="74">
+      <data key="d0">JUMBO BAG APPLES</data>
+      <data key="d1">0.017</data>
+      <data key="d2">0.3</data>
+      <data key="d3">7.647</data>
+    </node>
+    <node id="75">
+      <data key="d0">JUMBO BAG APPLES</data>
+      <data key="d1">0.019</data>
+      <data key="d2">0.218</data>
+      <data key="d3">5.557</data>
+    </node>
+    <node id="76">
+      <data key="d0">JUMBO BAG ALPHABET</data>
+      <data key="d1">0.016</data>
+      <data key="d2">0.274</data>
+      <data key="d3">6.661</data>
+    </node>
+    <node id="77">
+      <data key="d0">JUMBO BAG ALPHABET</data>
+      <data key="d1">0.016</data>
+      <data key="d2">0.184</data>
+      <data key="d3">4.471</data>
+    </node>
+    <node id="78">
+      <data key="d0">JUMBO BAG VINTAGE LEAF</data>
+      <data key="d1">0.019</data>
+      <data key="d2">0.215</data>
+      <data key="d3">5.071</data>
+    </node>
+    <node id="79">
+      <data key="d0">JUMBO BAG VINTAGE LEAF</data>
+      <data key="d1">0.023</data>
+      <data key="d2">0.399</data>
+      <data key="d3">9.436</data>
+    </node>
+    <node id="80">
+      <data key="d0">JUMBO STORAGE BAG SUKI</data>
+      <data key="d1">0.015</data>
+      <data key="d2">0.323</data>
+      <data key="d3">7.636</data>
+    </node>
+    <node id="81">
+      <data key="d0">JUMBO STORAGE BAG SUKI</data>
+      <data key="d1">0.023</data>
+      <data key="d2">0.27</data>
+      <data key="d3">6.371</data>
+    </node>
+    <node id="82">
+      <data key="d0">ALARM CLOCK BAKELIKE GREEN</data>
+      <data key="d1">0.029</data>
+      <data key="d2">0.61</data>
+      <data key="d3">13.956</data>
+    </node>
+    <node id="83">
+      <data key="d0">JUMBO SHOPPER VINTAGE RED PAISLEY</data>
+      <data key="d1">0.021</data>
+      <data key="d2">0.246</data>
+      <data key="d3">5.668</data>
+    </node>
+    <node id="84">
+      <data key="d0">HEART OF WICKER LARGE</data>
+      <data key="d1">0.016</data>
+      <data key="d2">0.147</data>
+      <data key="d3">3.321</data>
+    </node>
+    <node id="85">
+      <data key="d0">HEART OF WICKER SMALL</data>
+      <data key="d1">0.052</data>
+      <data key="d2">0.052</data>
+      <data key="d3">0.976</data>
+    </node>
+    <node id="86">
+      <data key="d0">HEART OF WICKER LARGE</data>
+      <data key="d1">0.022</data>
+      <data key="d2">0.423</data>
+      <data key="d3">9.557</data>
+    </node>
+    <node id="87">
+      <data key="d0">WOODEN PICTURE FRAME WHITE FINISH</data>
+      <data key="d1">0.047</data>
+      <data key="d2">0.047</data>
+      <data key="d3">0.988</data>
+    </node>
+    <node id="88">
+      <data key="d0">WOODEN FRAME ANTIQUE WHITE </data>
+      <data key="d1">0.025</data>
+      <data key="d2">0.539</data>
+      <data key="d3">12.143</data>
+    </node>
+    <node id="89">
+      <data key="d0">LUNCH BAG WOODLAND</data>
+      <data key="d1">0.016</data>
+      <data key="d2">0.343</data>
+      <data key="d3">7.53</data>
+    </node>
+    <node id="90">
+      <data key="d0">LUNCH BAG PINK POLKADOT</data>
+      <data key="d1">0.05</data>
+      <data key="d2">0.05</data>
+      <data key="d3">0.973</data>
+    </node>
+    <node id="91">
+      <data key="d0">LUNCH BAG WOODLAND</data>
+      <data key="d1">0.017</data>
+      <data key="d2">0.344</data>
+      <data key="d3">7.553</data>
+    </node>
+    <node id="92">
+      <data key="d0">LUNCH BAG  BLACK SKULL.</data>
+      <data key="d1">0.057</data>
+      <data key="d2">0.057</data>
+      <data key="d3">0.952</data>
+    </node>
+    <node id="93">
+      <data key="d0">LUNCH BAG WOODLAND</data>
+      <data key="d1">0.019</data>
+      <data key="d2">0.329</data>
+      <data key="d3">7.23</data>
+    </node>
+    <node id="94">
+      <data key="d0">LUNCH BAG WOODLAND</data>
+      <data key="d1">0.02</data>
+      <data key="d2">0.35</data>
+      <data key="d3">7.677</data>
+    </node>
+    <node id="95">
+      <data key="d0">LUNCH BAG CARS BLUE</data>
+      <data key="d1">0.052</data>
+      <data key="d2">0.052</data>
+      <data key="d3">0.977</data>
+    </node>
+    <node id="96">
+      <data key="d0">LUNCH BAG WOODLAND</data>
+      <data key="d1">0.02</data>
+      <data key="d2">0.377</data>
+      <data key="d3">8.268</data>
+    </node>
+    <node id="97">
+      <data key="d0">LUNCH BAG WOODLAND</data>
+      <data key="d1">0.022</data>
+      <data key="d2">0.413</data>
+      <data key="d3">9.075</data>
+    </node>
+    <node id="98">
+      <data key="d0">LUNCH BAG WOODLAND</data>
+      <data key="d1">0.023</data>
+      <data key="d2">0.335</data>
+      <data key="d3">7.346</data>
+    </node>
+    <node id="99">
+      <data key="d0">LUNCH BAG APPLE DESIGN</data>
+      <data key="d1">0.016</data>
+      <data key="d2">0.302</data>
+      <data key="d3">6.231</data>
+    </node>
+    <node id="100">
+      <data key="d0">LUNCH BAG APPLE DESIGN</data>
+      <data key="d1">0.016</data>
+      <data key="d2">0.314</data>
+      <data key="d3">6.48</data>
+    </node>
+    <node id="101">
+      <data key="d0">LUNCH BAG APPLE DESIGN</data>
+      <data key="d1">0.017</data>
+      <data key="d2">0.316</data>
+      <data key="d3">6.535</data>
+    </node>
+    <node id="102">
+      <data key="d0">LUNCH BAG APPLE DESIGN</data>
+      <data key="d1">0.017</data>
+      <data key="d2">0.304</data>
+      <data key="d3">6.273</data>
+    </node>
+    <node id="103">
+      <data key="d0">LUNCH BAG APPLE DESIGN</data>
+      <data key="d1">0.019</data>
+      <data key="d2">0.348</data>
+      <data key="d3">7.183</data>
+    </node>
+    <node id="104">
+      <data key="d0">LUNCH BAG APPLE DESIGN</data>
+      <data key="d1">0.021</data>
+      <data key="d2">0.381</data>
+      <data key="d3">7.863</data>
+    </node>
+    <node id="105">
+      <data key="d0">LUNCH BAG APPLE DESIGN</data>
+      <data key="d1">0.021</data>
+      <data key="d2">0.301</data>
+      <data key="d3">6.209</data>
+    </node>
+    <node id="106">
+      <data key="d0">JAM MAKING SET WITH JARS</data>
+      <data key="d1">0.048</data>
+      <data key="d2">0.048</data>
+      <data key="d3">0.99</data>
+    </node>
+    <node id="107">
+      <data key="d0">JAM MAKING SET PRINTED</data>
+      <data key="d1">0.017</data>
+      <data key="d2">0.347</data>
+      <data key="d3">7.333</data>
+    </node>
+    <node id="108">
+      <data key="d0">JUMBO BAG PINK POLKADOT</data>
+      <data key="d1">0.03</data>
+      <data key="d2">0.34</data>
+      <data key="d3">7.052</data>
+    </node>
+    <node id="109">
+      <data key="d0">WOODEN PICTURE FRAME WHITE FINISH</data>
+      <data key="d1">0.017</data>
+      <data key="d2">0.156</data>
+      <data key="d3">3.245</data>
+    </node>
+    <node id="110">
+      <data key="d0">LUNCH BAG PINK POLKADOT</data>
+      <data key="d1">0.017</data>
+      <data key="d2">0.311</data>
+      <data key="d3">5.999</data>
+    </node>
+    <node id="111">
+      <data key="d0">LUNCH BAG PINK POLKADOT</data>
+      <data key="d1">0.02</data>
+      <data key="d2">0.375</data>
+      <data key="d3">7.236</data>
+    </node>
+    <node id="112">
+      <data key="d0">LUNCH BAG SUKI DESIGN </data>
+      <data key="d1">0.028</data>
+      <data key="d2">0.401</data>
+      <data key="d3">6.846</data>
+    </node>
+    <node id="113">
+      <data key="d0">LUNCH BAG PINK POLKADOT</data>
+      <data key="d1">0.015</data>
+      <data key="d2">0.541</data>
+      <data key="d3">10.449</data>
+    </node>
+    <node id="114">
+      <data key="d0">LUNCH BAG CARS BLUE</data>
+      <data key="d1">0.025</data>
+      <data key="d2">0.355</data>
+      <data key="d3">6.63</data>
+    </node>
+    <node id="115">
+      <data key="d0">LUNCH BAG PINK POLKADOT</data>
+      <data key="d1">0.015</data>
+      <data key="d2">0.604</data>
+      <data key="d3">11.661</data>
+    </node>
+    <node id="116">
+      <data key="d0">LUNCH BAG  BLACK SKULL.</data>
+      <data key="d1">0.028</data>
+      <data key="d2">0.4</data>
+      <data key="d3">6.684</data>
+    </node>
+    <node id="117">
+      <data key="d0">LUNCH BAG PINK POLKADOT</data>
+      <data key="d1">0.017</data>
+      <data key="d2">0.595</data>
+      <data key="d3">11.494</data>
+    </node>
+    <node id="118">
+      <data key="d0">LUNCH BAG CARS BLUE</data>
+      <data key="d1">0.021</data>
+      <data key="d2">0.399</data>
+      <data key="d3">7.459</data>
+    </node>
+    <node id="119">
+      <data key="d0">LUNCH BAG CARS BLUE</data>
+      <data key="d1">0.023</data>
+      <data key="d2">0.4</data>
+      <data key="d3">7.468</data>
+    </node>
+    <node id="120">
+      <data key="d0">LUNCH BAG CARS BLUE</data>
+      <data key="d1">0.024</data>
+      <data key="d2">0.437</data>
+      <data key="d3">8.161</data>
+    </node>
+    <node id="121">
+      <data key="d0">LUNCH BAG SPACEBOY DESIGN </data>
+      <data key="d1">0.017</data>
+      <data key="d2">0.31</data>
+      <data key="d3">5.677</data>
+    </node>
+    <node id="122">
+      <data key="d0">LUNCH BAG SPACEBOY DESIGN </data>
+      <data key="d1">0.023</data>
+      <data key="d2">0.397</data>
+      <data key="d3">7.275</data>
+    </node>
+    <node id="123">
+      <data key="d0">LUNCH BAG SPACEBOY DESIGN </data>
+      <data key="d1">0.024</data>
+      <data key="d2">0.432</data>
+      <data key="d3">7.919</data>
+    </node>
+    <node id="124">
+      <data key="d0">LUNCH BAG SPACEBOY DESIGN </data>
+      <data key="d1">0.025</data>
+      <data key="d2">0.361</data>
+      <data key="d3">6.618</data>
+    </node>
+    <node id="125">
+      <data key="d0">LUNCH BAG VINTAGE DOILY </data>
+      <data key="d1">0.018</data>
+      <data key="d2">0.32</data>
+      <data key="d3">5.744</data>
+    </node>
+    <node id="126">
+      <data key="d0">LUNCH BAG VINTAGE DOILY </data>
+      <data key="d1">0.018</data>
+      <data key="d2">0.317</data>
+      <data key="d3">5.695</data>
+    </node>
+    <node id="127">
+      <data key="d0">LUNCH BAG VINTAGE DOILY </data>
+      <data key="d1">0.023</data>
+      <data key="d2">0.324</data>
+      <data key="d3">5.817</data>
+    </node>
+    <node id="128">
+      <data key="d0">LUNCH BAG VINTAGE DOILY </data>
+      <data key="d1">0.024</data>
+      <data key="d2">0.413</data>
+      <data key="d3">7.423</data>
+    </node>
+    <node id="129">
+      <data key="d0">PARTY BUNTING</data>
+      <data key="d1">0.075</data>
+      <data key="d2">0.075</data>
+      <data key="d3">0.988</data>
+    </node>
+    <node id="130">
+      <data key="d0">SPOTTY BUNTING</data>
+      <data key="d1">0.021</data>
+      <data key="d2">0.281</data>
+      <data key="d3">5.065</data>
+    </node>
+    <node id="131">
+      <data key="d0">LUNCH BAG SUKI DESIGN </data>
+      <data key="d1">0.015</data>
+      <data key="d2">0.541</data>
+      <data key="d3">9.234</data>
+    </node>
+    <node id="132">
+      <data key="d0">JUMBO BAG VINTAGE DOILY </data>
+      <data key="d1">0.025</data>
+      <data key="d2">0.291</data>
+      <data key="d3">4.899</data>
+    </node>
+    <node id="133">
+      <data key="d0">LUNCH BAG RED RETROSPOT</data>
+      <data key="d1">0.023</data>
+      <data key="d2">0.264</data>
+      <data key="d3">3.709</data>
+    </node>
+    <node id="134">
+      <data key="d0">PARTY BUNTING</data>
+      <data key="d1">0.015</data>
+      <data key="d2">0.141</data>
+      <data key="d3">1.866</data>
+    </node>
+    <edge source="0" target="1" />
+    <edge source="0" target="3" />
+    <edge source="0" target="5" />
+    <edge source="0" target="7" />
+    <edge source="0" target="9" />
+    <edge source="0" target="11" />
+    <edge source="0" target="13" />
+    <edge source="0" target="16" />
+    <edge source="0" target="18" />
+    <edge source="0" target="21" />
+    <edge source="0" target="23" />
+    <edge source="0" target="25" />
+    <edge source="0" target="27" />
+    <edge source="0" target="30" />
+    <edge source="0" target="33" />
+    <edge source="0" target="35" />
+    <edge source="0" target="37" />
+    <edge source="0" target="39" />
+    <edge source="0" target="41" />
+    <edge source="0" target="43" />
+    <edge source="0" target="46" />
+    <edge source="0" target="49" />
+    <edge source="0" target="51" />
+    <edge source="0" target="55" />
+    <edge source="0" target="57" />
+    <edge source="0" target="60" />
+    <edge source="0" target="62" />
+    <edge source="0" target="68" />
+    <edge source="0" target="70" />
+    <edge source="0" target="73" />
+    <edge source="0" target="85" />
+    <edge source="0" target="87" />
+    <edge source="0" target="90" />
+    <edge source="0" target="92" />
+    <edge source="0" target="95" />
+    <edge source="0" target="106" />
+    <edge source="0" target="129" />
+    <edge source="1" target="2" />
+    <edge source="1" target="65" />
+    <edge source="1" target="84" />
+    <edge source="1" target="109" />
+    <edge source="1" target="134" />
+    <edge source="3" target="4" />
+    <edge source="5" target="6" />
+    <edge source="7" target="8" />
+    <edge source="7" target="48" />
+    <edge source="7" target="82" />
+    <edge source="9" target="10" />
+    <edge source="11" target="12" />
+    <edge source="13" target="14" />
+    <edge source="13" target="15" />
+    <edge source="13" target="20" />
+    <edge source="13" target="32" />
+    <edge source="16" target="17" />
+    <edge source="18" target="19" />
+    <edge source="21" target="22" />
+    <edge source="23" target="24" />
+    <edge source="23" target="45" />
+    <edge source="23" target="54" />
+    <edge source="23" target="59" />
+    <edge source="23" target="75" />
+    <edge source="23" target="77" />
+    <edge source="23" target="78" />
+    <edge source="23" target="81" />
+    <edge source="23" target="83" />
+    <edge source="23" target="108" />
+    <edge source="23" target="132" />
+    <edge source="23" target="133" />
+    <edge source="25" target="26" />
+    <edge source="25" target="66" />
+    <edge source="27" target="28" />
+    <edge source="28" target="29" />
+    <edge source="30" target="31" />
+    <edge source="33" target="34" />
+    <edge source="33" target="53" />
+    <edge source="33" target="72" />
+    <edge source="33" target="89" />
+    <edge source="35" target="36" />
+    <edge source="35" target="104" />
+    <edge source="35" target="110" />
+    <edge source="35" target="121" />
+    <edge source="37" target="38" />
+    <edge source="37" target="94" />
+    <edge source="37" target="103" />
+    <edge source="37" target="120" />
+    <edge source="37" target="123" />
+    <edge source="37" target="125" />
+    <edge source="39" target="40" />
+    <edge source="39" target="98" />
+    <edge source="39" target="105" />
+    <edge source="39" target="112" />
+    <edge source="39" target="114" />
+    <edge source="39" target="116" />
+    <edge source="39" target="124" />
+    <edge source="39" target="127" />
+    <edge source="41" target="42" />
+    <edge source="41" target="97" />
+    <edge source="41" target="101" />
+    <edge source="41" target="111" />
+    <edge source="41" target="118" />
+    <edge source="43" target="44" />
+    <edge source="46" target="47" />
+    <edge source="49" target="50" />
+    <edge source="51" target="52" />
+    <edge source="55" target="56" />
+    <edge source="57" target="58" />
+    <edge source="57" target="80" />
+    <edge source="60" target="61" />
+    <edge source="62" target="63" />
+    <edge source="62" target="64" />
+    <edge source="66" target="67" />
+    <edge source="68" target="69" />
+    <edge source="70" target="71" />
+    <edge source="73" target="74" />
+    <edge source="73" target="76" />
+    <edge source="73" target="79" />
+    <edge source="73" target="128" />
+    <edge source="85" target="86" />
+    <edge source="87" target="88" />
+    <edge source="90" target="91" />
+    <edge source="90" target="100" />
+    <edge source="92" target="93" />
+    <edge source="92" target="102" />
+    <edge source="92" target="119" />
+    <edge source="92" target="122" />
+    <edge source="92" target="126" />
+    <edge source="95" target="96" />
+    <edge source="95" target="99" />
+    <edge source="106" target="107" />
+    <edge source="112" target="113" />
+    <edge source="114" target="115" />
+    <edge source="116" target="117" />
+    <edge source="116" target="131" />
+    <edge source="129" target="130" />
+  </graph>
+</graphml>

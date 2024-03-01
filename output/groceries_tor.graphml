@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="node" attr.name="lift" attr.type="double" />
+  <key id="d2" for="node" attr.name="confidence" attr.type="double" />
+  <key id="d1" for="node" attr.name="support" attr.type="double" />
+  <key id="d0" for="node" attr.name="value" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="0">
+      <data key="d0">NULL</data>
+      <data key="d1">1.0</data>
+      <data key="d2">1.0</data>
+      <data key="d3">1.0</data>
+    </node>
+    <node id="1">
+      <data key="d0">whole milk</data>
+      <data key="d1">0.256</data>
+      <data key="d2">0.256</data>
+      <data key="d3">1.0</data>
+    </node>
+    <node id="3">
+      <data key="d0">yogurt</data>
+      <data key="d1">0.14</data>
+      <data key="d2">0.14</data>
+      <data key="d3">1.0</data>
+    </node>
+    <node id="5">
+      <data key="d0">tropical fruit</data>
+      <data key="d1">0.105</data>
+      <data key="d2">0.105</data>
+      <data key="d3">1.0</data>
+    </node>
+    <node id="7">
+      <data key="d0">bottled water</data>
+      <data key="d1">0.111</data>
+      <data key="d2">0.111</data>
+      <data key="d3">1.0</data>
+    </node>
+    <node id="9">
+      <data key="d0">other vegetables</data>
+      <data key="d1">0.193</data>
+      <data key="d2">0.193</data>
+      <data key="d3">1.0</data>
+    </node>
+    <node id="11">
+      <data key="d0">root vegetables</data>
+      <data key="d1">0.109</data>
+      <data key="d2">0.109</data>
+      <data key="d3">1.0</data>
+    </node>
+    <node id="13">
+      <data key="d0">sausage</data>
+      <data key="d1">0.094</data>
+      <data key="d2">0.094</data>
+      <data key="d3">1.0</data>
+    </node>
+    <node id="15">
+      <data key="d0">rolls/buns</data>
+      <data key="d1">0.184</data>
+      <data key="d2">0.184</data>
+      <data key="d3">1.0</data>
+    </node>
+    <node id="17">
+      <data key="d0">soda</data>
+      <data key="d1">0.174</data>
+      <data key="d2">0.174</data>
+      <data key="d3">1.0</data>
+    </node>
+    <node id="19">
+      <data key="d0">yogurt</data>
+      <data key="d1">0.056</data>
+      <data key="d2">0.219</data>
+      <data key="d3">1.569</data>
+    </node>
+    <node id="21">
+      <data key="d0">other vegetables</data>
+      <data key="d1">0.075</data>
+      <data key="d2">0.292</data>
+      <data key="d3">1.511</data>
+    </node>
+    <node id="23">
+      <data key="d0">root vegetables</data>
+      <data key="d1">0.047</data>
+      <data key="d2">0.246</data>
+      <data key="d3">2.252</data>
+    </node>
+    <node id="34">
+      <data key="d0">yogurt</data>
+      <data key="d1">0.043</data>
+      <data key="d2">0.225</data>
+      <data key="d3">1.613</data>
+    </node>
+    <node id="35">
+      <data key="d0">soda</data>
+      <data key="d1">0.04</data>
+      <data key="d2">0.156</data>
+      <data key="d3">0.897</data>
+    </node>
+    <node id="37">
+      <data key="d0">rolls/buns</data>
+      <data key="d1">0.057</data>
+      <data key="d2">0.221</data>
+      <data key="d3">1.203</data>
+    </node>
+    <node id="39">
+      <data key="d0">rolls/buns</data>
+      <data key="d1">0.043</data>
+      <data key="d2">0.221</data>
+      <data key="d3">1.2</data>
+    </node>
+    <node id="54">
+      <data key="d0">root vegetables</data>
+      <data key="d1">0.049</data>
+      <data key="d2">0.191</data>
+      <data key="d3">1.753</data>
+    </node>
+    <node id="63">
+      <data key="d0">citrus fruit</data>
+      <data key="d1">0.083</data>
+      <data key="d2">0.083</data>
+      <data key="d3">1.0</data>
+    </node>
+    <node id="70">
+      <data key="d0">pastry</data>
+      <data key="d1">0.089</data>
+      <data key="d2">0.089</data>
+      <data key="d3">1.0</data>
+    </node>
+    <node id="83">
+      <data key="d0">whipped/sour cream</data>
+      <data key="d1">0.072</data>
+      <data key="d2">0.072</data>
+      <data key="d3">1.0</data>
+    </node>
+    <node id="140">
+      <data key="d0">shopping bags</data>
+      <data key="d1">0.099</data>
+      <data key="d2">0.099</data>
+      <data key="d3">1.0</data>
+    </node>
+    <node id="170">
+      <data key="d0">root vegetables</data>
+      <data key="d1">0.023</data>
+      <data key="d2">0.309</data>
+      <data key="d3">2.836</data>
+    </node>
+    <edge source="0" target="1" />
+    <edge source="0" target="3" />
+    <edge source="0" target="5" />
+    <edge source="0" target="7" />
+    <edge source="0" target="9" />
+    <edge source="0" target="11" />
+    <edge source="0" target="13" />
+    <edge source="0" target="15" />
+    <edge source="0" target="17" />
+    <edge source="0" target="63" />
+    <edge source="0" target="70" />
+    <edge source="0" target="83" />
+    <edge source="0" target="140" />
+    <edge source="1" target="19" />
+    <edge source="1" target="21" />
+    <edge source="1" target="35" />
+    <edge source="1" target="37" />
+    <edge source="1" target="54" />
+    <edge source="9" target="23" />
+    <edge source="9" target="34" />
+    <edge source="9" target="39" />
+    <edge source="21" target="170" />
+  </graph>
+</graphml>
